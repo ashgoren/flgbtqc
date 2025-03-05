@@ -5,19 +5,17 @@ permalink: /gatherings/
 ---
 
 ## Gatherings
-Twice a year, Friends for Lesbian, Gay, Bisexual, and Transgender Concerns gather to worship, conduct business, pray, and play. In July, our numbers are large, and we are a visible and valued presence at the Friends General Conference Gathering. We are a community within a community there, worshiping together daily but dispersing throughout the Gathering at the rise of Meeting.
+Twice a year, Friends for Lesbian, Gay, Bisexual, and Transgender Concerns typically gather to worship, conduct business, pray, and play. In July, our numbers are large, and we are a visible and valued presence at the Friends General Conference Gathering. We are a community within a community there, worshiping together daily but dispersing throughout the Gathering at the rise of Meeting.
 
-Each February, we meet for a long weekend dedicated to FLGBTQC work and play. Our numbers are often smaller, from 100 to 200, and we retreat together to attend to old relationships and deepen new ones.
+Most Februaries, we meet for a long weekend dedicated to FLGBTQC work and play. Our numbers are often smaller, from 100 to 200, and we retreat together to attend to old relationships and deepen new ones.
 
 # Mid-Winter Gathering
 
-Mid-Winter Gathering is held over the long weekend surrounding U.S. President's Day.
-
-2024:
-A regional gathering is in the works in Atlanta, with most of Midwinter planned to be held online. Email [heart@flgbtqc.org](mailto:heart@flgbtqc.org) for more info. 
+Mid-Winter Gathering is typically held over the long weekend surrounding U.S. President's Day.
 
 # Recent Mid-Winter Gathering Locations
 
+- 2024 - Midwinter Gathering held online
 - 2023 - Midwinter Gathering held online
 - 2022 - Midwinter Gathering held online
 - 2021 - Midwinter Gathering held online
@@ -42,4 +40,4 @@ A regional gathering is in the works in Atlanta, with most of Midwinter planned 
 
 # Summer Gathering at FGC
 
-Summer Gathering is a week-long event held around the 4th of July. The 2024 [FGC Gathering](https://www.fgcquaker.org/fgcprograms/the-gathering/) will be in Haverford, PA.
+Summer Gathering is a week-long event held around the 4th of July.
