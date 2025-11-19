@@ -5,9 +5,9 @@ permalink: /gatherings/
 ---
 
 ## Gatherings
-Twice a year, Friends for Lesbian, Gay, Bisexual, and Transgender Concerns typically gather to worship, conduct business, pray, and play. In July, our numbers are large, and we are a visible and valued presence at the Friends General Conference Gathering. We are a community within a community there, worshiping together daily but dispersing throughout the Gathering at the rise of Meeting.
+Periodically, Friends for Lesbian, Gay, Bisexual, and Transgender Concerns gather to worship, conduct business, pray, and play. In July, our numbers are large, and we are a visible and valued presence at the Friends General Conference Gathering. We are a community within a community there, worshiping together daily but dispersing throughout the Gathering at the rise of Meeting.
 
-Most Februaries, we meet for a long weekend dedicated to FLGBTQC work and play. Our numbers are often smaller, from 100 to 200, and we retreat together to attend to old relationships and deepen new ones.
+Most Februaries, we meet for a long weekend dedicated to FLGBTQC work and play. Our numbers are often smaller, and we retreat together to attend to old relationships and deepen new ones. Recent Mid-Winter Gatherings have been held online.
 
 # Mid-Winter Gathering
 

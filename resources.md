@@ -6,7 +6,7 @@ permalink: /resources/
 
 {: #epistles}
 # Epistles
-In the Quaker tradition, an epistle is a letter of greeting or a specific message generally crafted in a Yearly Meeting session and sent to other Yearly Meetings. The FLGBTQC faith community often drafts epistles during our twice-yearly gatherings and distributes them widely to Yearly Meetings and other groups around the world.
+In the Quaker tradition, an epistle is a letter of greeting or a specific message generally crafted in a Yearly Meeting session and sent to other Yearly Meetings. The FLGBTQC faith community often drafts epistles during our periodic gatherings and distributes them widely to Yearly Meetings and other groups around the world.
 
 [View FLGBTQC Epistles](/resources/epistles)
 

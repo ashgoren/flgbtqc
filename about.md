@@ -10,7 +10,7 @@ We seek to know that of God within ourselves and others. We seek to express God'
 
 It is our hope to offer an oasis to those who have been spurned by the world at large. We are learning that radical inclusion and radical love bring further light to Quaker testimony and life. Our experience with oppression in our own lives leads us to seek ways to bring our witness to bear in the struggles of other oppressed peoples.
 
-We gather twice a year, at our Mid-Winter gathering and at the Friends General Conference Annual Gathering of Friends in the summer. At these times we worship together, discern our corporate witness through Meeting for Worship with attention to business, share our individual journeys, celebrate our lives, heal old wounds, and draw sustenance from the Spirit for our work and life in the world. After almost thirty years, we are still learning to spread love in the face of rejection and hostility and to embrace new friends. We have found faith and voice to speak truth to power and the courage to be open to new revelation.
+We gather periodically, typically at our Mid-Winter gathering and at the Friends General Conference Annual Gathering of Friends in the summer. At these times we worship together, discern our corporate witness through Meeting for Worship with attention to business, share our individual journeys, celebrate our lives, heal old wounds, and draw sustenance from the Spirit for our work and life in the world. After almost thirty years, we are still learning to spread love in the face of rejection and hostility and to embrace new friends. We have found faith and voice to speak truth to power and the courage to be open to new revelation.
 
 _(adapted from a minute approved 15 Second Month 1999)_
 {: .align-right}
@@ -27,7 +27,7 @@ Today those spiritual practices include both programmed and unprogrammed Meeting
 Quakers believe that all are called to minister to one another.  We believe that each person has direct access to the Divine inner light present within.  Individuals must search and come to a personal understanding of their own spiritualities, which may or may not be Christ-centered. During the past three centuries, consistent testimonies have emerged which bear witness that the Spirit can be trusted to lead toward simplicity, equality, justice, nonviolence, peace, and stewardship.
 
 # Where can I find Friends for Lesbian, Gay, Bisexual, Transgender, and Queer Concerns?
-The first place for information is this website. We also have twice-yearly gatherings, as mentioned above.
+The first place for information is this website. We also have periodic gatherings, as mentioned above.
 
 # How do I get involved?
 You are invited to come to our Gatherings! You can contact any of the people on our [Contact page](/contact) with questions. Please also take a look at our [Outreach and Resources page](/resources) for information about our newsletter.
