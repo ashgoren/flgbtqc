@@ -12,13 +12,4 @@ The collection is a work in progress. Please help us to expand it by encouraging
 
 If you know of a minute not listed here, please alert the [website manager](mailto:{{layout.website_manager.email}}).
 
-**Click on a name below to see that minute, or click the "View all" button to see all of them.**
-
-View all
-{: .btn #view-all}
-
-<div id='trans-minutes'>
-  {% for minute in site.data.transminutes %}
-    {%- include minute.html title=minute.title filename=minute.filename -%}
-  {% endfor %}
-</div>
+<a href ="https://docs.google.com/document/d/e/2PACX-1vRLB5aESW34wfzkWtg1DvJJhEn8fzCYD0TqFrfrqdpXzF91D4yMYpLtL4wxuH_Irtmb6OwhN3IQ9rHP/pub">Click here to see the full list of Minutes Supporting and Affirming Transgender People among Quakers.</a>

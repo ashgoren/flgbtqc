@@ -12,13 +12,4 @@ The collection is a work in progress. We have incorporated the minutes previousl
 
 If you have a Marriage Minute or Minute for other Committment Ceremony for Same-Sex couples that isn't on our list please alert the [website manager](mailto:{{layout.website_manager.email}}).
 
-**Click on a name below to see that minute, or click the "View all" button to see all of them.**
-
-View all
-{: .btn #view-all}
-
-<div id='marriage-minutes'>
-  {% for minute in site.data.marriageminutes %}
-    {%- include minute.html title=minute.title filename=minute.filename -%}
-  {% endfor %}
-</div>
+<a href="https://docs.google.com/document/d/e/2PACX-1vSIfdnFM_RNeNOqVWvPiQKkoKBM_xJRmoGuVCINRx4sBerphhiNOPVwILVP8snZAd8oC4TL44e-7WTm/pub">Click here to see the full list of Marriage Minutes.</a>
