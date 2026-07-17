@@ -57,7 +57,7 @@ sponsor or guide Friends who wish to organize local or regional events.
 Meeting at least once/year, focusing on how they’re doing as well as what they’re doing.
 
 ## Tech Team
-The Tech Team manages and materially supports the website, online meetings, email listserv, access to official FLGBTQC email addresses, shared google drive folders, etc.
+The Tech Team manages and materially supports the website, online meetings, mailing list, access to official FLGBTQC email addresses, shared google drive folders, etc.
 
 Specifics
 1. The Tech Team should ensure that there are always at least 2 Friends who know how to access each critical system at all times. If this goal is not met, the Heart Team should be immediately informed.

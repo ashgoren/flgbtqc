@@ -4,6 +4,23 @@ title: Outreach/Resources
 permalink: /resources/
 ---
 
+{: #listserv}
+# Email List
+**To join Groups.io:**
+
+1. Go to [https://flgbtqc.groups.io/g/porch/join](https://flgbtqc.groups.io/g/porch/join) and fill in all the requested fields, then press the "Confirm Email Address" button at the bottom of the page.
+2. If you're new to groups.io, you will get an email to confirm your email address; you must follow the link in that email.
+3. You will also receive a second email from us from groups.io with instructions for setting your group profile visible to all group members. It's a one-step update, and press "save profile."
+4. Once you've done that, we will approve your joining within a day or two.
+
+If you need help, please contact the [list managers](mailto:{{layout.email_list_owners.email}}), {{layout.email_list_owners.name}}.
+
+From our [Email List Frequently Asked Questions](/resources/listfaq):
+
+> "This [email list] is a way for FLGBTQC Friends and supporters to stay in touch with each other between gatherings. It is, to use John Calvi's analogy, a way for us to gather at the community store to exchange news, gossip, spiritual journeys, ask for prayers and guidance, and to do FLGBTQC business in an informal way."
+
+> "Think of this list as a form of Quaker dialogue. We do not debate here. Most of the things you post should clearly communicate who \*you\* are... share what has been true for you, with as much personal detail as you have the courage to muster."
+
 {: #epistles}
 # Epistles
 In the Quaker tradition, an epistle is a letter of greeting or a specific message generally crafted in a Yearly Meeting session and sent to other Yearly Meetings. The FLGBTQC faith community often drafts epistles during our periodic gatherings and distributes them widely to Yearly Meetings and other groups around the world.
@@ -43,16 +60,6 @@ This pamphlet was last updated June 2014. Please send us feedback, especially co
 - [PDF format](/docs/pamphlet/FLGBTQC-Pamphlet-2014-06.pdf): ready to print without customization (two-sided)
 - [Word format](/docs/pamphlet/FLGBTQC-Pamphlet-2014-06.doc): includes a template for customizing for a Meeting, School or Quaker organization
 {: .list-unstyled}
-
-{: #listserv}
-# Email List
-If you are known to FLGBTQC (you have been to one of our Gatherings), you can email the [email list manager](mailto:{{layout.email_list_manager.email}}) to be added to our email list. It averages 3-4 emails a day.
-
-From our [Email List Frequently Asked Questions](/resources/listfaq):
-
-> "This [email list] is a way for FLGBTQC Friends and supporters to stay in touch with each other between gatherings. It is, to use John Calvi's analogy, a way for us to gather at the community store to exchange news, gossip, spiritual journeys, ask for prayers and guidance, and to do FLGBTQC business in an informal way."
-
-> "Think of this list as a form of Quaker dialogue. We do not debate here. Most of the things you post should clearly communicate who \*you\* are... share what has been true for you, with as much personal detail as you have the courage to muster."
 
 {: #calendar}
 # Calendar

@@ -13,7 +13,7 @@ We are currently offering monthly online worship. For more information, email [{
 To be decided...
 
 # Outreach and Resources
-We have an active [email list](/resources#listserv), for all who have come to our Gatherings. Contact the [Email List Manager](mailto:{{layout.email_list_manager.email}}) for more information.
+We have an active [email list](/resources#listserv) on Groups.io. See [Outreach and Resources](/resources#listserv) for how to join.
 
 We have an FLGBTQC calendar, which you can access [here](https://tinyurl.com/flgbtqc-calendar-view). Google provides the option to subscribe to this calendar so that you will be able to see it with your own calendars.
 
