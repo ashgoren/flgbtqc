@@ -6,13 +6,15 @@ permalink: /about/
 # What is Friends for Lesbian, Gay, Bisexual, Transgender, and Queer Concerns?
 _Friends for Lesbian, Gay, Bisexual, Transgender, and Queer Concerns_ is a Quaker faith community within the Religious Society of Friends. FLGBTQC deeply honors, affirms, and upholds that of God in all people.
 
-We seek to know that of God within ourselves and others. We seek to express God's truth in the Quaker and in the lesbian/gay/bisexual/transsexual/transgender communities, as it is made known to us.
+Ours is a Quaker faith community committed to justice, liberation, and the full affirmation of diverse sexual orientations and gender identities. We honor the divine Light in all humans and nurture a deep well of faith that sustains courageous witness in the world. We gather to listen deeply to the Spirit, to one another, and to the spoken and unspoken messages that rise among us.
 
-It is our hope to offer an oasis to those who have been spurned by the world at large. We are learning that radical inclusion and radical love bring further light to Quaker testimony and life. Our experience with oppression in our own lives leads us to seek ways to bring our witness to bear in the struggles of other oppressed peoples.
+Through direct experience of the Light, we seek spiritual refreshment, fellowship, and the bonds of love that we discover in our shared differences. We affirm loving, Spirit-led sexuality and gender expression as powerful, Divinely bestowed gifts. Guided by this sense of sacred queerness, we reclaim faith as a source of power and resistance, embodying a living testimony of inclusion, equality, and deep, nourishing love.
 
-We gather periodically, typically at our Mid-Winter gathering and at the Friends General Conference Annual Gathering of Friends in the summer. At these times we worship together, discern our corporate witness through Meeting for Worship with attention to business, share our individual journeys, celebrate our lives, heal old wounds, and draw sustenance from the Spirit for our work and life in the world. After almost thirty years, we are still learning to spread love in the face of rejection and hostility and to embrace new friends. We have found faith and voice to speak truth to power and the courage to be open to new revelation.
+Our organization has a rich history in the Religious Society of Friends. We have long discerned that radical inclusion must guide us, signaling welcome to people of any gender identity or sexual orientation. At the same time, we acknowledge that our community is already wider than our present name suggests. There are beloved Friends--some of whom we already know and some who we have not met--who identify in many ways that do not appear in our current name. We welcome all Friends wholeheartedly to participate in our community.
 
-_(adapted from a minute approved 15 Second Month 1999)_
+We stand in solidarity with those who face marginalization, violence, or exclusion, knowing that liberation is interconnected. Strengthened by the stories we share, we support one another to live up to our Light, to heal the wounds inflicted by oppression, to speak our truths, and to make Love visible in the world.
+
+_(from a minute approved 10 Seventh Month 2026)_
 {: .align-right}
 
 # Who are Quakers?
@@ -30,4 +32,4 @@ Quakers believe that all are called to minister to one another.  We believe that
 The first place for information is this website. We also have periodic gatherings, as mentioned above.
 
 # How do I get involved?
-You are invited to come to our Gatherings! You can contact any of the people on our [Contact page](/contact) with questions. Please also take a look at our [Outreach and Resources page](/resources) for information about our newsletter.
+You are invited to come to our Gatherings! You can contact any of the people on our [Contact page](/contact) with questions. Please also take a look at our [Outreach and Resources page](/resources) for more information about our email list, epistles, and other resources.

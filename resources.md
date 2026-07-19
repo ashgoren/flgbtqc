@@ -45,14 +45,6 @@ We have been invited by the law firm Kramer Levin to participate as signatories 
 
 [View Friend of the Court Briefs](/resources/briefs)
 
-{: #newsletter}
-# Newsletter
-We are in the process of launching an electronic newsletter.
-
-<!-- Contributions are welcome! We welcome plain (unformatted) electronic submissions of writing, art, and photographs (photographers: please be sure that subjects in your photos have given permission for their images to be published here). Note that we do not print ads or classified ads. Send electronic sumissions to the [newsletter editor](mailto:{{layout.newsletter_editor.email}}). -->
-
-<!-- **Subscribing to the electronic newsletter:** Sign up on [this form](https://goo.gl/forms/6MaDrZBk9f9DhXow2) to receive future electronic newsletter mailings. -->
-
 {: #pamphlet}
 # Pamphlet
 This pamphlet was last updated June 2014. Please send us feedback, especially comments from people who aren't already familiar with us. If you are able, please print on purple paper for consistency of appearance.
@@ -67,4 +59,4 @@ We have an FLGBTQC calendar, which you can access [here](https://tinyurl.com/flg
 
 {: #eachofus}
 # Each of Us Inevitable
-_[Each of Us Inevitable](/resources/each_of_us_inevitable)_ is a collection of some keynote addresses given at FLGC Mid-Winter and other gatherings between 1977 and 1993. The speakers discuss coming to terms with one's identity and direction. The collection of talks was edited by Robert Leuze. A newly expanded 2nd edition is available in print from the [FGC Bookstore](https://quakerbooks.org/products/each-of-us-inevitable-4185) and from [Pendle Hill](http://www.pendlehill.org/bookstore.html).
+Each of Us Inevitable is a collection of some keynote addresses given at FLGC Mid-Winter and other gatherings between 1977 and 1993. The speakers discuss coming to terms with one’s identity and direction. The collection of talks was edited by Robert Leuze. We offer downloads of each keynote [here](/resources/each_of_us_inevitable).

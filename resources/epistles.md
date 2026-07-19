@@ -8,13 +8,4 @@ permalink: /resources/epistles/
 
 This page should reference the complete list of FLGBTQC Epistles. If you know of an Epistle not listed here, please alert the [website manager](mailto:{{layout.website_manager.email}}).
 
-Click on a name below to see that epistle, or click the "View all" button to see all of them together.
-
-View all
-{: .btn #view-all}
-
-<div id='epistles'>
-  {% for epistle in site.data.epistles %}
-    {%- include minute.html title=epistle.title filename=epistle.filename -%}
-  {% endfor %}
-</div>
+<a href="https://docs.google.com/document/d/e/2PACX-1vQAfWqxRVtueSW7mpthNGU3Jn2dMS1YkB6VAeF8t5z8PhG6grNqlmahu_Bw4dwtU8TG-hofXg7TpVzV/pub">Click here to see the full list of FLGBTQC Epistles</a>.

@@ -5,21 +5,23 @@ permalink: /gatherings/
 ---
 
 ## Gatherings
-Periodically, Friends for Lesbian, Gay, Bisexual, and Transgender Concerns gather to worship, conduct business, pray, and play. In July, our numbers are large, and we are a visible and valued presence at the Friends General Conference Gathering. We are a community within a community there, worshiping together daily but dispersing throughout the Gathering at the rise of Meeting.
+Periodically, Friends for Lesbian, Gay, Bisexual, Transgender, and Queer Concerns gather to worship, conduct business, pray, and play. Each July, many of us come together at the Friends General Conference Gathering, where we are a visible and valued community within the larger Gathering. Alongside our own daily worship, meetings for business, social gatherings, time in the FLGBTQC lounge, and special events such as our cabaret and silent auction, we each take part in the rich life of the Gathering—attending workshops, worshiping with Friends from many traditions, sharing meals, making new connections, and participating in the many opportunities the week has to offer.
 
-Most Februaries, we meet for a long weekend dedicated to FLGBTQC work and play. Our numbers are often smaller, and we retreat together to attend to old relationships and deepen new ones. Recent Mid-Winter Gatherings have been held online.
+Many Februaries, we meet for a long weekend dedicated to FLGBTQC work and play. Our numbers are often smaller, and we retreat together to attend to old relationships and deepen new ones. Most recent Midwinter Gatherings have been held online.
 
-# Mid-Winter Gathering
+In addition to these two types of gatherings, informal regional mini-gatherings are sometimes scheduled which may occur at any time of the year. Currently there are ones being planned for central Pennsylvania in 2026 and Georgia in 2027. Further information about these and other mini-gatherings will be posted here as it is available. 
 
-Mid-Winter Gathering is typically held over the long weekend surrounding U.S. President's Day.
+# Midwinter Gathering
 
-# Recent Mid-Winter Gathering Locations
+Midwinter Gathering is typically held over the long weekend surrounding U.S. President's Day.
+
+# Recent Midwinter Gathering Locations
 
 - 2024 - Midwinter Gathering held online
 - 2023 - Midwinter Gathering held online
 - 2022 - Midwinter Gathering held online
 - 2021 - Midwinter Gathering held online
-- 2020 - mini-gathering held in Philadelphia, PA; mini-gathering in Seattle, WA canceled due to covid
+- 2020 - mini-gatherings held in Philadelphia, PA and Madison, WI; mini-gathering in Seattle, WA canceled due to covid
 - 2019 - mini-gatherings held in Seattle, WA, and Philadelphia, PA
 - 2018 - Austin, TX
 - 2017 - Portland, OR
@@ -40,4 +42,4 @@ Mid-Winter Gathering is typically held over the long weekend surrounding U.S. Pr
 
 # Summer Gathering at FGC
 
-Summer Gathering is a week-long event held around the 4th of July.
+Summer Gathering is a week-long event held the first week of July.

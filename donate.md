@@ -5,13 +5,10 @@ permalink: /donate/
 ---
 
 # Making a Donation
-We gratefully thank you for supporting FLGBTQC. 
+We gratefully thank you for supporting FLGBTQC. We're hoping to have an online donation link here sometime in the near future. In the meanwhile, checks <em>made payable to FLGBTQC</em> can be sent to our treasurer:
 
-You can reach our treasurer by email [here](mailto:{{layout.treasurer.email}}).
-
-<!-- Donations can be sent via Venmo to [@FLGBTQC](https://venmo.com/flgbtqc). -->
-
-Checks may be sent to the treasurer:
 > {{layout.treasurer.address}}
 
-Please make checks payable to FLGBTQC.
+You can also reach our treasurer by email [here](mailto:{{layout.treasurer.email}}).
+
+<!-- Donations can be sent via Venmo to [@FLGBTQC](https://venmo.com/flgbtqc). -->

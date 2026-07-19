@@ -6,12 +6,14 @@ permalink: /resources/each_of_us_inevitable/
 
 # Each of Us Inevitable
 
-These 19 keynote addresses were presented between 1977 and 1993 by well-known Friends (Quakers) who reflect a range of sexual orientations. Most were given at Midwinter Gathering; a few were given at Friends General Conference (FGC) Summer Gathering. This collection offers an evolving collective wisdom on being gay, lesbian, bisexual, transgender, or an ally.
+These 19 keynote addresses were presented between 1977 and 1993 by well-known Friends (Quakers) who reflect a range of sexual orientations. Most were given at Midwinter Gathering; a few were given at Friends General Conference (FGC) Summer Gathering. 
 
-This revised and expanded volume, edited by Robert Leuze, adds 8 keynotes to the 11 in the original.  The 2nd edition is available in print directly from the [FGC Bookstore](https://quakerbooks.org/products/each-of-us-inevitable-4185), and from [Pendle Hill](http://www.pendlehill.org/bookstore.html) if you'd like to contact them or look in their latest printed catalog.
+This collection offers an evolving collective wisdom on being gay, lesbian, bisexual, transgender, or an ally. This revised and expanded volume, edited by Robert Leuze, adds 8 keynotes to the 11 in the original. 
 
-Below, we offer downloads of each author's keynote(s). A brief summary of each keynote follows. Many thanks to each of the the authors for sharing so deeply, and also to Robert Leuze for his work collecting these chapters for publication and for providing them in electronic format.
-  
+Many thanks to each of the the authors for sharing so deeply, and also to Robert Leuze for his work collecting these chapters for publication and for providing them in electronic format.
+
+Below, we offer downloads of each keynote. A brief summary of each keynote follows. 
+
 # Keynotes (sorted by Author)
 
 [Becky Birtha](/docs/each_of_us/EOUI-Birtha.pdf)  
