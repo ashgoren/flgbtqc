@@ -10,14 +10,10 @@ We are currently offering monthly online worship. For more information, email [{
 
 # Gatherings
 
-To be decided...
+To be announced...
 
 # Outreach and Resources
 We have an active [email list](/resources#listserv) on Groups.io. See [Outreach and Resources](/resources#listserv) for how to join.
-
-We have an FLGBTQC calendar, which you can access [here](https://tinyurl.com/flgbtqc-calendar-view). Google provides the option to subscribe to this calendar so that you will be able to see it with your own calendars.
-
-We have produced a [pamphlet](/resources#pamphlet) about FLGBTQC and our work in the world.
 
 We are collecting [Marriage Minutes](/resources#marriageminutes) written by Quaker Meetings affirming same-sex Quaker marriages and other commitment ceremonies.  If your Meeting has minuted support for same-sex Quaker marriages but you are not included on this list, please contact the [Website Manager](mailto:{{layout.website_manager.email}}). These minutes have been included in amicus briefs for several court cases. We try to keep them as up-to-date as possible.
 
@@ -25,7 +21,3 @@ We are collecting [Minutes that specifically welcome and affirm transgender peop
     
 # Donations
 FLGBTQC appreciates donations to support our community.  We accept donations [by mail](/donate).
-
-This document summarizes some of the important elements of the Leading that shapes FLGBTQC and asks each of us to consider thoughtfully several ways to support the Leading &mdash; including financial gifts. [[PDF](/docs/donate/2009AppealActionFinances.pdf), [DOC](/docs/donate/2009AppealActionFinances.doc)]
-
-This document is a template you could adapt and use to ask your Meeting to consider supporting FLGBTQC. Many Meetings so approached are touched to be able to support an organization important to the spiritual journey of a member. [[PDF](/docs/donate/2009MeetingRequest.pdf), [DOC](/docs/donate/2009MeetingRequest.doc)]

@@ -45,18 +45,6 @@ We have been invited by the law firm Kramer Levin to participate as signatories 
 
 [View Friend of the Court Briefs](/resources/briefs)
 
-{: #pamphlet}
-# Pamphlet
-This pamphlet was last updated June 2014. Please send us feedback, especially comments from people who aren't already familiar with us. If you are able, please print on purple paper for consistency of appearance.
-
-- [PDF format](/docs/pamphlet/FLGBTQC-Pamphlet-2014-06.pdf): ready to print without customization (two-sided)
-- [Word format](/docs/pamphlet/FLGBTQC-Pamphlet-2014-06.doc): includes a template for customizing for a Meeting, School or Quaker organization
-{: .list-unstyled}
-
-{: #calendar}
-# Calendar
-We have an FLGBTQC calendar, which you can access [here](https://tinyurl.com/flgbtqc-calendar-view). Google provides the option to subscribe to this calendar so that you will be able to see it with your own calendars.
-
 {: #eachofus}
 # Each of Us Inevitable
 Each of Us Inevitable is a collection of some keynote addresses given at FLGC Mid-Winter and other gatherings between 1977 and 1993. The speakers discuss coming to terms with one’s identity and direction. The collection of talks was edited by Robert Leuze. We offer downloads of each keynote [here](/resources/each_of_us_inevitable).
